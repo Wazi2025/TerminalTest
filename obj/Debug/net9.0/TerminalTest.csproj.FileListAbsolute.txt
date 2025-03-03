@@ -12,3 +12,4 @@ c:\Users\Instruktor\Desktop\CSharp\TerminalTest\obj\Debug\net9.0\refint\Terminal
 c:\Users\Instruktor\Desktop\CSharp\TerminalTest\obj\Debug\net9.0\TerminalTest.pdb
 c:\Users\Instruktor\Desktop\CSharp\TerminalTest\obj\Debug\net9.0\TerminalTest.genruntimeconfig.cache
 c:\Users\Instruktor\Desktop\CSharp\TerminalTest\obj\Debug\net9.0\ref\TerminalTest.dll
+c:\Users\Instruktor\Desktop\CSharp\TerminalTest\obj\Debug\net9.0\TerminalTest.sourcelink.json

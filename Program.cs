@@ -12,8 +12,9 @@ class Program
         //Console.WriteLine(message);
         string strMessage = "View English output:";
         string strNewline = "\n";
-        Console.WriteLine(strMessage + strNewline + $@"C:\Excercise\{projectName}{strFileName}");
-        Console.WriteLine(strNewline + russianMessage + strNewline + $@"C:\Excercise\{projectName}{strRussian}{strFileName}");
+        string strTab = "\t";
+        Console.WriteLine(strMessage + strNewline + strTab + strTab + $@"C:\Excercise\{projectName}{strFileName}");
+        Console.WriteLine(strNewline + russianMessage + strNewline + strTab + strTab + $@"C:\Excercise\{projectName}{strRussian}{strFileName}");
 
         //string projectName = "ACME";
         //string englishLocation = $@"c:\Exercise\{projectName}\data.txt";
