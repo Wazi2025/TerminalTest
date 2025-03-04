@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj": {}
+    "C:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj": {
+    "C:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj",
+        "projectUniqueName": "C:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj",
         "projectName": "TerminalTest",
-        "projectPath": "c:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj",
+        "projectPath": "C:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\TerminalTest.csproj",
         "packagesPath": "C:\\Users\\Instruktor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\obj\\",
+        "outputPath": "C:\\Users\\Instruktor\\Desktop\\CSharp\\TerminalTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Instruktor\\AppData\\Roaming\\NuGet\\NuGet.Config"
